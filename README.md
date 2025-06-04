@@ -13,7 +13,7 @@ Effortlessly enhance your images using state-of-the-art AI. Upload your photo an
 - **Image Enhancement**: Upload your image and download the enhanced result.
 
 ## Tech Stack
-- React, Tailwind CSS, Framer Motion, Context API
+- React, Tailwind CSS, Framer Motion
 
 ---
 
