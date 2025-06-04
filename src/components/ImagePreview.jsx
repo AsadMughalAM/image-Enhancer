@@ -7,7 +7,7 @@ const ImagePreview = ({ file, setFile }) => {
   const [enhancedUrl, setEnhancedUrl] = useState(null);
   const [isUploading, setIsUploading] = useState(false); // Track upload state
 
-  const API_KEY = "wxnoa7x5vzjwqihow";
+  const API_KEY = "wx59dpg74fc8gdlmr";
 
   useEffect(() => {
     if (!file) {
