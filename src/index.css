@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+html {
+  transition: background 0.3s, color 0.3s;
+  overflow-x: hidden;
+}
+
+body, html {
+  cursor: none;
+  background: #f8fafc;
+  color: #1e293b;
+}
+
+
+body::-webkit-scrollbar {
+  display: none;
+}
